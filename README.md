@@ -1,103 +1,54 @@
-# 🪵 Stronk Overview
+[![Titan-Node](https://raw.githubusercontent.com/Titan-Node/Titan-Node/refs/heads/main/Node%20Operator%20final%20rounded.png)]([https://github.com/Titan-Node](https://github.com/Titan-Node))
+# Titan Node Overview
 
-I am Marco, video streaming engineer, aspiring musician and owner of Stronk Tech: a software company with a dedication to release unlicensed, open-source software. On this page you can view all of our open-source contributions.
+I am Titan, Crypto Punk #8728, Bitcoin Foundation Member since 2014 and a node operator for various crypto projects.
 
-We have the intention to provide anyone open access to a complete media pipeline, from the backend media server to the frontend components required to consume content.
+Based in Canada, we operate one of the largest "Video Mining" Pools on the Livepeer network and run professional node infrastructure for the EigenLayer network.
 
-If you're in need of help for your media related projects, [contact us](https://www.stronk.tech/contact) and we'll introduce you to the MistServer team to see how we can help you.
+If you are looking to [earn passive income from your idle GPUs](https://app.titan-node.com/download.html) or want a reliable node operator to stake your [LPT](https://explorer.livepeer.org/accounts/0xbe8770603daf200b1fa136ad354ba854928e602b/orchestrating) or [ETH](https://app.eigenlayer.xyz/operator/0x72355fa820dbe85ccdc9d6a81afa75f8de6b5766), look no further. 
 
-## Stronk Links
+Visit the links below to get started. Join the movement for a permissionless, open and fair internet.
 
-<a href="https://linktr.ee/stronk.tech" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/links-%40stronk.tech-c0caf5?style=for-the-badge&logo=linktree&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Flinktr.ee%2Fstronk.tech" alt="Linktree" />
+## Titan Node Links
+
+<a href="http://titan-node.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/website-www.titan--node.com-c0caf5?style=for-the-badge&logo=webflow&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Ftitan-node.com" alt="Main website" />
 </a>
 &nbsp;
-<a href="http://stronk.tech/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/website-www.stronk.tech-c0caf5?style=for-the-badge&logo=webflow&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fstronk.tech" alt="Main website" />
+<a href="https://t.me/Titan_Node" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-%40Titan__Node-c0caf5?style=for-the-badge&logo=telegram&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Ft.me%2FTitan_Node" alt="Telegram" />
 </a>
 &nbsp;
-<a href="https://wa.me/31625300165" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-%40stronk--tech-c0caf5?style=for-the-badge&logo=whatsapp&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fwa.me%2F31625300165" alt="WhatsApp" />
-</a>
-&nbsp;
-<a href="https://t.me/Cpn_Stronk" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-%40Cpn__Stronk-c0caf5?style=for-the-badge&logo=telegram&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Ft.me%2FCpn_Stronk" alt="Telegram" />
-</a>
-&nbsp;
-<a href="https://discordapp.com/users/303504235927044097" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%40captain.stronk-c0caf5?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F303504235927044097" alt="Discord" />
+<a href="https://discordapp.com/users/411581978500923402" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%40TitanNode-c0caf5?style=for-the-badge&logo=discord&logoColor=c0caf5&labelColor=414868&color=c0caf5&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F411581978500923402" alt="Discord" />
 </a>
 
 &nbsp;
 
-## Stronk Stats
-*(unfortunately [the script](https://github.com/anuraghazra/github-readme-stats) only indexes language usage of your own non-forked repo's, so 'Most Used Languages' is more 'Most used languages for personal side-projects')*
 
-<div align="center"> 
-    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/stats-tokyonight.svg" alt="Stronk Tech's Language stats" />
-    <img height=259 width="45%" src="https://github.com/stronk-dev/stronk-dev/blob/grs/top-langs-tokyonight.svg" alt="Stronk Tech's Github stats" />
-</div>
 
-&nbsp;
+## Titan Node Projects
 
-## Stronk Contributions
+### Livepeer - World’s open and decentralized video infrastructure.
 
-### MistServer - worlds first public domain media engine.
-
-> The most efficient and flexible media server in existence, now completely open-source. Take control of your media pipeline and start building with MistServer!
-
-We're one of the maintainers of [MistServer](https://mistserver.com/), the media toolkit that puts you in charge. MistServers' strength lies in it's *extreme*  versatility. It just works, no matter what media format you need to handle or device you want to turn into a streaming powerhouse.
-
-Check out our [repository](https://github.com/DDVTECH/mistserver) and [documentation](https://docs.mistserver.org/) to get started for free, no strings attached!
-
-If you need any help, feel free to [contact us](https://www.stronk.tech/contact) and we'll introduce you to the rest of the MistServer team to see how we can help you.
-
-&nbsp;
-
-### StreamCrafter - where every browser becomes a livestream studio.
-
-> No installation. No configuration. No hassle. Just ultra low latency livestreaming straight from the browser.
-
-We're the maintainer of the [StreamCrafter](https://www.streamcrafter.live/), an in-browser broadcasting studio. Using cutting edge web API's, we can turn any device with a browser into a livestream studio.
-
-Check out our [repository](https://github.com/DDVTECH/StreamCrafter) and [NPM](https://www.npmjs.com/package/@optimist-video/streamcrafter) package to get started with the StreamCrafter!
-
-Note: the StreamCrafter is currently in an alpha state. We're actively looking for (paid) contributors. If you have expertise in web development feel free to [contact us](https://www.streamcrafter.live/contact)!
-
-&nbsp;
-
-### Livepeer - world’s open video infrastructure.
+[![go-livepeer](https://user-images.githubusercontent.com/555740/117340053-78210e80-ae6e-11eb-892c-d98085fe6824.png)](https://github.com/livepeer/go-livepeer)
 
 > Infrastructure for video computing, enabling AI processing and transcoding jobs to power the future of video.
 
-We used to be core contributors to the [Livepeer protocol](https://www.livepeer.org/) and are still heavily involved in the Livepeer ecosystem, moderating their socials and (still) submitting PR's.
+One of the largest "Video Mining" Pools on the network. Contributor to open source development, bug fixes and host of the Weekly Water Cooler Chat.
 
-If you're into crypto, feel free to [stake to our Livepeer node](https://explorer.livepeer.org/accounts/0x847791cbf03be716a7fe9dc8c9affe17bd49ae5e/delegating) to show your support and **earn LPT and ETH**.
+If you're into crypto, feel free to [stake to our Livepeer node](https://explorer.livepeer.org/accounts/0xbe8770603daf200b1fa136ad354ba854928e602b/orchestrating) to show your support and **earn LPT and ETH**.
 
 Livepeer has a enterprise-ready hosted service, called [Livepeer Studio](https://livepeer.studio/). If you want to build *anything* with video, but don't have the expertise to build and manage your own infrastructure, they can help you out!
 
 &nbsp;
 
-### In flight:
+### EigenLayer - The first market for decentralized trust
 
-The following projects are still in a pre-alpha state and will get released in the future:
+[![EigenLayer](https://raw.githubusercontent.com/Titan-Node/Titan-Node/refs/heads/main/EigenLayer-Banner.png)](https://github.com/Layr-Labs)
 
-#### Stronk-AI
-A dashboard to run AI inference jobs on the Livepeer network (for free)! If this piques your interest, feel free to check out [our demo](https://inference.stronk.rocks/).
+> Restaking enables staked ETH to be used as cryptoeconomic security for protocols other than Ethereum, in exchange for protocol fees and rewards.
 
-#### Stronk-Media-Pipeline (pending rename)
-A reference media pipeline for a basic streaming platform, including docker images, deployment packages and a helpful manual to get introduced to the media industry. There are a couple of subprojects in this category:
+Operating a suite of nodes to cover all AVSs and achieve high rewards for our delegators.
 
-##### Stronk-Cloud
-Management interface for deploying and configuring your Stronk media nodes.
-
-##### Stronk-API
-API which indexes blockchain data, manages user accounts and gates access to the media pipeline, using Ethereum wallets for authentication.
-
-##### Stronk-Studio
-A StreamCrafter-powered livestreaming application to stream through our global MistServer-powered CDN. The current proof of concept is [available here](https://video.stronk.rocks/).
-
-##### Stronk-TV
-A platform to consume media from the Stronk pipeline.
-
-</div>
+Stake ETH across multiple protocols at once: Visit our [EigenLayer node](https://app.eigenlayer.xyz/operator/0x72355fa820dbe85ccdc9d6a81afa75f8de6b5766) and support a vibrant new ecosystem for builders.
