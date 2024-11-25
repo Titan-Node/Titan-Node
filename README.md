@@ -3,7 +3,7 @@
 
 I am Titan, Crypto Punk #8728, Bitcoin Foundation Member since 2014 and a node operator for various crypto projects.
 
-We operate one of the largest "Video Mining" Pools on the Livepeer network and run professional node infrastructure for the EigenLayer network.
+Our team operate one of the largest "Video Mining" Pools on the Livepeer network and run professional node infrastructure for the EigenLayer network.
 
 If you are looking to [earn passive income from your idle GPUs](https://app.titan-node.com/download.html) or want a reliable node operator to stake your [LPT](https://explorer.livepeer.org/accounts/0xbe8770603daf200b1fa136ad354ba854928e602b/orchestrating) or [ETH](https://app.eigenlayer.xyz/operator/0x72355fa820dbe85ccdc9d6a81afa75f8de6b5766), look no further. 
 
