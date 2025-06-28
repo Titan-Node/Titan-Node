@@ -52,3 +52,19 @@ Livepeer has a enterprise-ready hosted service, called [Livepeer Studio](https:/
 Operating a suite of nodes to cover all AVSs and achieve high rewards for our delegators.
 
 Stake ETH across multiple protocols at once: Visit our [EigenLayer node](https://app.eigenlayer.xyz/operator/0x72355fa820dbe85ccdc9d6a81afa75f8de6b5766) and support a vibrant new ecosystem for builders.
+
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-28T11:47:34.801Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0x653ed641b1682854b16a834FE386A5c7470D9812"
+    },
+    {
+      "chain": "solana",
+      "address": "2CcjwyJEjN4VqbhfvUHGmbq1e9cbncH5Z2GiraA4JZoR"
+    }
+  ]
+}
+WALLET-LINKING-END -->
